@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me michal_koczewski@protonmail.me
+- 📫 How to reach me michal_koczewski@protonmail.com
 
 <!---
 michalKoczewski/michalKoczewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
